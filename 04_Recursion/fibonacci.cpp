@@ -12,12 +12,12 @@ Space Complexity: O(n)
 using namespace std;
 
 
-int fabonacci(int n){
+int fibonacci(int n){
     if (n<=1){
         return n;
     }
-    int last = fabonacci(n-1);
-    int secondlast = fabonacci(n-2);
+    int last = fibonacci(n-1);
+    int secondlast = fibonacci(n-2);
     return last + secondlast;
 
 }
@@ -25,6 +25,6 @@ int fabonacci(int n){
 int main() {
     int n;
     cin >> n;
-    cout << fabonacci(n) << endl;
+    cout << fibonacci(n) << endl;
     return 0;
 }

@@ -42,7 +42,7 @@
 - [x] Factorial
 - [x] Reverse Array
 - [x] Palindrome String
-- [ ] Fibonacci
+- [x] Fibonacci
 
 ## Arrays
 
