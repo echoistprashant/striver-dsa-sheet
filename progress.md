@@ -43,6 +43,7 @@
 - [x] Reverse Array
 - [x] Palindrome String
 - [x] Fibonacci
+- [x] Hashing
 
 ## Arrays
 
