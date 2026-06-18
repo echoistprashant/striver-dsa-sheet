@@ -50,6 +50,8 @@
 - [ ] Largest Element in Array
 - [ ] Second Largest Element
 - [ ] Check if Array is Sorted
+- [x] Selection sort
+- [x] Bubble Sort 
 
 ## Binary Search
 
