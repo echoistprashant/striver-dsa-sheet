@@ -52,6 +52,7 @@
 - [ ] Check if Array is Sorted
 - [x] Selection sort
 - [x] Bubble Sort 
+- [x] Insertion Sort
 
 ## Binary Search
 
