@@ -53,6 +53,12 @@
 - [x] Selection sort
 - [x] Bubble Sort 
 - [x] Insertion Sort
+- [x] Merge Sort
+- [] Quick Sort
+
+## Problem on Arrays 
+- [X] Largest number in the array 
+- [x] Second largest number in array
 
 ## Binary Search
 
