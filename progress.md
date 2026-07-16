@@ -59,6 +59,8 @@
 ## Problem on Arrays 
 - [X] Largest number in the array 
 - [x] Second largest number in array
+- [x] Smallest number in array
+- [x] Second smallest number in array
 
 ## Binary Search
 
