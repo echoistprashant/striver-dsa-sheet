@@ -47,14 +47,14 @@
 
 ## Arrays
 
-- [ ] Largest Element in Array
-- [ ] Second Largest Element
-- [ ] Check if Array is Sorted
+- [x] Largest Element in Array
+- [x] Second Largest Element
+- [x] Check if Array is Sorted
 - [x] Selection sort
 - [x] Bubble Sort 
 - [x] Insertion Sort
 - [x] Merge Sort
-- [] Quick Sort
+- [x] Quick Sort
 
 ## Problem on Arrays 
 - [X] Largest number in the array 
