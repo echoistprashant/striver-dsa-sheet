@@ -63,6 +63,7 @@
 - [x] Second smallest number in array
 - [x] Check if Array is Sorted
 - [x] Removing the duplicates from sorted array
+- [x] Rotation by 1 place to the left 
 
 
 ## Binary Search
