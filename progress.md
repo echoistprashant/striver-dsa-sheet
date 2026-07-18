@@ -61,6 +61,9 @@
 - [x] Second largest number in array
 - [x] Smallest number in array
 - [x] Second smallest number in array
+- [x] Check if Array is Sorted
+- [x] Removing the duplicates from sorted array
+
 
 ## Binary Search
 
