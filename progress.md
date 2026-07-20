@@ -65,6 +65,7 @@
 - [x] Removing the duplicates from sorted array
 - [x] Rotation by 1 place to the left 
 - [x] Rotation by K place to the left 
+- [x] Move zero to the end
 
 
 ## Binary Search
