@@ -66,6 +66,7 @@
 - [x] Rotation by 1 place to the left 
 - [x] Rotation by K place to the left 
 - [x] Move zero to the end
+- [x] Linear Search
 
 
 ## Binary Search
