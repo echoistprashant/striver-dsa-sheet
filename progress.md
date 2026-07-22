@@ -67,7 +67,8 @@
 - [x] Rotation by K place to the left 
 - [x] Move zero to the end
 - [x] Linear Search
-- [x] Missing Number
+- [x] Missing Number by sum method 
+- [x] Missing Number by xor method 
 
 
 
