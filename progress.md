@@ -69,7 +69,8 @@
 - [x] Linear Search
 - [x] Missing Number by sum method 
 - [x] Missing Number by xor method 
-
+- [x] Maximum Consecutive Ones 
+- [x] Find the number that appears once, and other numbers twice. 
 
 
 ## Binary Search
