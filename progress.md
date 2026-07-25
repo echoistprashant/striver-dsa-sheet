@@ -72,6 +72,8 @@
 - [x] Maximum Consecutive Ones 
 - [x] Find the number that appears once, and other numbers twice. 
 - [x] 2 sum
+- [x] sorting 0's , 1's and 2's 
+
 
 
 
