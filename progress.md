@@ -71,6 +71,8 @@
 - [x] Missing Number by xor method 
 - [x] Maximum Consecutive Ones 
 - [x] Find the number that appears once, and other numbers twice. 
+- [x] 2 sum
+
 
 
 ## Binary Search
