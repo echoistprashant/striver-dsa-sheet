@@ -74,6 +74,7 @@
 - [x] 2 sum
 - [x] sorting 0's , 1's and 2's 
 - [x] Optimal solution for sorting 0's , 1's and 2's 
+- [x] Majority number in array greater than N/2
 
 
 
