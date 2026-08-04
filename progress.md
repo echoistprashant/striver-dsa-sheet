@@ -76,6 +76,7 @@
 - [x] Optimal solution for sorting 0's , 1's and 2's 
 - [x] Majority number in array greater than N/2
 - [x] Maximum subarrays sum 
+- [x] Maximum subarrays sum and finding the maximum subarray
 
 
 
