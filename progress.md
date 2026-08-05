@@ -79,6 +79,7 @@
 - [x] Maximum subarrays sum and finding the maximum subarray
 - [x] Buying and Selling Stocks
 - [x] Rearranging array elments by sign
+- [x] Next Permutation
 
 
 
