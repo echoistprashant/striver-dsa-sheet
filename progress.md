@@ -81,6 +81,7 @@
 - [x] Rearranging array elments by sign
 - [x] Next Permutation
 - [x] Leader in Array
+- [x] Longest consecutive sequence in array 
 
 
 

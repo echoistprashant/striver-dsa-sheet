@@ -1,4 +1,4 @@
-// time complexity = O(n)
+// time complexity = O(n) + O(n log n)
 // space complexity = O(n)
 
 #include <bits/stdc++.h>
