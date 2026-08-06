@@ -82,6 +82,9 @@
 - [x] Next Permutation
 - [x] Leader in Array
 - [x] Longest consecutive sequence in array 
+- [x] Zeoros in matrix
+
+
 
 
 
