@@ -36,9 +36,10 @@ vector<vector<int>> zeroMatrix(vector<vector<int>> &matrix, int n, int m)
 int main()
 {
     vector<vector<int>> matrix = {
-        {1, 1, 1},
-        {1, 0, 1},
-        {1, 1, 1}
+    {1, 2, 3, 4},
+    {5, 0, 7, 8},
+    {0, 10, 11, 12},
+    {13, 14, 15, 0}
     };
 
     int n = matrix.size();
