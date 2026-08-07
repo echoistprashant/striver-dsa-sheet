@@ -84,6 +84,7 @@
 - [x] Longest consecutive sequence in array 
 - [x] Zeoros in matrix
 - [x] Image Rotation
+- [x] Count Sub array sum equals k
 
 
 
