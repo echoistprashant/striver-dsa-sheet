@@ -102,6 +102,7 @@
 - [X] Lower Bound
 - [X] Upper Bound
 - [X] Floor
+- [X] Ceil
 
 
 
