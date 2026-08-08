@@ -101,6 +101,7 @@
 - [X] Binary Search
 - [X] Lower Bound
 - [X] Upper Bound
+- [X] Floor
 
 
 
