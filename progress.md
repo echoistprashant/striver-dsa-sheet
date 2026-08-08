@@ -93,7 +93,14 @@
 
 ## Binary Search
 
-- [ ] Binary Search
+- [X] Binary Search
+
+
+## Problem on Binary Search
+
+- [X] Binary Search
+
+
 
 ## Linked List
 
