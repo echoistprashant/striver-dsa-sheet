@@ -99,6 +99,7 @@
 ## Problem on Binary Search
 
 - [X] Binary Search
+- [X] Lower Bound
 
 
 
