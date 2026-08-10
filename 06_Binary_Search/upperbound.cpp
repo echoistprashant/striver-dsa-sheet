@@ -5,7 +5,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int lowerBound(vector<int> &arr, int target, int n){
+int upperBound(vector<int> &arr, int target, int n){
     n = arr.size();
     int low = 0;
     int high = n-1;

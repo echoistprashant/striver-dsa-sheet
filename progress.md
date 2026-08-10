@@ -103,6 +103,7 @@
 - [X] Upper Bound
 - [X] Floor
 - [X] Ceil
+- [X] First and Last Occurance 
 
 
 
