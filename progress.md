@@ -104,7 +104,7 @@
 - [X] Floor
 - [X] Ceil
 - [X] First and Last Occurance 
-
+- [X] Count of the occurance
 
 
 ## Linked List
