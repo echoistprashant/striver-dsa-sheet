@@ -105,6 +105,8 @@
 - [X] Ceil
 - [X] First and Last Occurance 
 - [X] Count of the occurance
+- [X] Search the element in a rotated sorted array 
+
 
 
 ## Linked List
