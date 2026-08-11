@@ -27,6 +27,6 @@ int main() {
     int n = arr.size();
     int target = 8;
 
-    cout << lowerBound(arr, target, n);
+    cout << upperBound(arr, target, n);
     return 0;
 }
