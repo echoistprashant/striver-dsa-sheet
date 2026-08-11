@@ -108,6 +108,7 @@
 - [X] Search the element in a rotated sorted array 
 - [X] Search the element in a rotated sorted array having dupicates 
 - [X] Minimum element in a rotated sorted array 
+- [X] Number of times the array is rotated
 
 
 
