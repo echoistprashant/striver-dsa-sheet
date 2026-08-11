@@ -106,7 +106,9 @@
 - [X] First and Last Occurance 
 - [X] Count of the occurance
 - [X] Search the element in a rotated sorted array 
-- [X] Search the element in a rotated sorted array 2
+- [X] Search the element in a rotated sorted array having dupicates 
+- [X] Minimum element in a rotated sorted array 
+
 
 
 
