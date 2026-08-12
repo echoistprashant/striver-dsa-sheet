@@ -110,7 +110,7 @@
 - [X] Minimum element in a rotated sorted array 
 - [X] Number of times the array is rotated
 - [X] Single element in sorted array
-
+- [X] Peak element in the array 
 
 
 
