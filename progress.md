@@ -112,6 +112,7 @@
 - [X] Single element in sorted array
 - [X] Peak element in the array 
 - [X] Finding the square root using a binary search
+- [X] Finding the nth root of the number m
 
 
 
