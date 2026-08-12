@@ -111,6 +111,7 @@
 - [X] Number of times the array is rotated
 - [X] Single element in sorted array
 - [X] Peak element in the array 
+- [X] Finding the square root using a binary search
 
 
 
