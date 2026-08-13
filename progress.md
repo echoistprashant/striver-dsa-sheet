@@ -112,11 +112,12 @@
 - [X] Single element in sorted array
 - [X] Peak element in the array 
 
-## Problem on Binary Search
+## Binary Search on Answers
 
 - [X] Finding the square root using a binary search
 - [X] Finding the nth root of the number m
 - [X] Koko eating banana
+- [X] Minimum days to make m banquets 
 
 
 
