@@ -111,8 +111,12 @@
 - [X] Number of times the array is rotated
 - [X] Single element in sorted array
 - [X] Peak element in the array 
+
+## Problem on Binary Search
+
 - [X] Finding the square root using a binary search
 - [X] Finding the nth root of the number m
+- [X] Koko eating banana
 
 
 
