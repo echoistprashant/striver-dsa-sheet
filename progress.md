@@ -118,6 +118,8 @@
 - [X] Finding the nth root of the number m
 - [X] Koko eating banana
 - [X] Minimum days to make m banquets 
+- [X] Smallest divisor
+
 
 
 
