@@ -119,6 +119,7 @@
 - [X] Koko eating banana
 - [X] Minimum days to make m banquets 
 - [X] Smallest divisor
+- [X] Least capacity to ship packages within D days
 
 
 
