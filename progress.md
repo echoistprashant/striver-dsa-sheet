@@ -123,7 +123,8 @@
 - [X] Kth missing positive number
 
 
-
+## string
+- [X] remove the outermost parenthesis 
 
 
 ## Linked List
