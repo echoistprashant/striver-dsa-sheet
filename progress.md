@@ -129,7 +129,8 @@
 - [X] largest odd number in string 
 - [X] Longest Common Prefix
 - [X] rotate string
-- [X] rotate string
+- [X] valid anagram 
+- [X] sort character by frequency
 
 
 
