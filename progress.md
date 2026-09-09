@@ -133,6 +133,7 @@
 - [X] sort character by frequency
 - [X] roman to integer 
 - [X] sum of beauty of string 
+- [X] Longest Palindromic Substring
 
 
 
