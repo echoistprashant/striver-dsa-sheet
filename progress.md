@@ -128,6 +128,7 @@
 - [X] reverse word in a string 
 - [X] largest odd number in string 
 - [X] Longest Common Prefix
+- [X] rotate string
 
 ## Linked List
 
