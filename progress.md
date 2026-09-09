@@ -131,6 +131,7 @@
 - [X] rotate string
 - [X] valid anagram 
 - [X] sort character by frequency
+- [X] roman to integer 
 
 
 
