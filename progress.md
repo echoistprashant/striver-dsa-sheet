@@ -132,6 +132,7 @@
 - [X] valid anagram 
 - [X] sort character by frequency
 - [X] roman to integer 
+- [X] sum of beauty of string 
 
 
 
