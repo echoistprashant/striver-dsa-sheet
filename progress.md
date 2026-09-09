@@ -125,6 +125,8 @@
 
 ## string
 - [X] remove the outermost parenthesis 
+- [X] reverse word in a string 
+- [X] largest odd number in string 
 
 
 ## Linked List
