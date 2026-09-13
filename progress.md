@@ -139,6 +139,11 @@
 
 ## Linked List
 
+- [X] Introduction
+- [X] conversion arr to ll
+- [X] length 
+- [X] traversal
+- [X] search
 - [ ] Insert Node
 - [ ] Delete Node
 
