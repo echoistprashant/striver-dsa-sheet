@@ -145,7 +145,7 @@
 - [X] traversal
 - [X] search
 - [ ] Insert Node
-- [ ] Delete Node
+- [X] Delete Node
 
 ## Stacks and Queues
 
