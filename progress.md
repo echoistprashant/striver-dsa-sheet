@@ -137,7 +137,7 @@
 
 
 
-## Linked List
+## Linked List & Doubly Linked List
 
 - [X] Introduction
 - [X] conversion arr to ll
@@ -146,6 +146,8 @@
 - [X] search
 - [X] Insert Node
 - [X] Delete Node
+- [X] Reverse in doubly linked list 
+
 
 ## Stacks and Queues
 
