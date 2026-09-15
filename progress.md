@@ -147,6 +147,8 @@
 - [X] Insert Node
 - [X] Delete Node
 - [X] Reverse in doubly linked list 
+- [X] Middle of the linked list
+
 
 
 ## Stacks and Queues
