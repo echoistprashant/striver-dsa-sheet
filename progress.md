@@ -148,6 +148,8 @@
 - [X] Delete Node
 - [X] Reverse in doubly linked list 
 - [X] Middle of the linked list
+- [X] reverse
+- [X] checking the loop
 
 
 
